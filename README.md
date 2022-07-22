@@ -1,4 +1,4 @@
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Peculiar907/microservice-projects/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Peculiar907/microservice-projects/tree/master)
 
 ## Project Overview
 
