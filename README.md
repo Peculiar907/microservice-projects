@@ -47,10 +47,10 @@ source ~/.devops/bin/activate
 
 * Setup and Configure Docker on your Local system
 * Setup and Configure Kubernetes on your local system
-* Run ./run_docker.sh in a terminal to prepare and build the image.
-* Run ./make_prediction.sh in a seperate terminal to get the predication of the application running in a container.
+* Run `./run_docker.sh` in a terminal to prepare and build the image.
+* Run `./make_prediction.sh` in a seperate terminal to get the predication of the application running in a container.
 * Setup Minikube
 * Install Kubectl
-* Run Minikube Start
-* Run the pod in a terminal using run_kubernetes.sh
-* Run ./make_prediction.sh in a seperate terminatal.
+* Run `Minikube Start`
+* Run the pod in a terminal using `./run_kubernetes.sh`
+* Run `./make_prediction.sh` in a seperate terminatal.
